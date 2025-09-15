@@ -3,7 +3,7 @@ Tampilan Halaman Sign In
 
 ---
 Tampilan Halaman Login
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b46dce0f-5a3a-4d4a-8e64-91d92d004d9e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/de108240-9d5f-4750-93d9-43d4aca9d860" />
 
 ---
 Tampilan setelah Login
